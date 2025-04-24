@@ -6,7 +6,7 @@ output:
 ---
 # Proposed Research on Toothfish (Dissostichus spp.)
 ## CCAMLR Conservation Measure 24-01, Paragraph 3
-### Chilean Research Plan for Subareas 48.2 and 48.3A (2025-2028)
+### Chilean Research Plan for Subareas 48.2 and 48.3A
 
 ---
 
@@ -113,7 +113,7 @@ output:
 * Three depth strata: 600-1000m, 1000-1500m, 1500-2000m
 * Two-stage cluster sampling for biological data
 * Consistent gear configuration (trotline, 2,500 hooks per set)
-* Statistical rigor: precision target of ±300 kg/2500 hooks at 95% confidence
+* Statistical rigor: Coefficient of Variation (CV) of 12% (or precision target of ±300 kg/2500 hooks at 95% confidence)
 
 
 ![ ](P:/pCloud Sync/_bacalao/sample_size_cv_plot_48.2.png){width=75%}
@@ -131,21 +131,25 @@ output:
 
 **Subarea 48.2:**
 
-* Fishing season: TBD
-* Survey period: March 1 - May 31 (each season)
-* Duration: Approximately 90 fishing days
-  * 64 stations in NRB (~49 days)
-  * 34 stations in SRB (~26 days)
+* Fishing season: no restrictions
+* Survey period: March 1 - June 9th (each season)
+* Duration: 101 fishing days (including a buffer of 20%)
+  * 64 stations in NRB (~55 days)
+  * 34 stations in SRB (~29 days)
+  * ~1.17 stations per day
 
 **Subarea 48.3A:**
 
 * Fishing season: from 16 April to 14 September
-* Survey period: from Jun 3 - July 18 
-* Duration: Approximately 45 fishing days
-* 48 stations (~1.3 stations per day)
+* Survey period: from Jun 10 - July 29 
+* Duration: 49 fishing days (including a buffer of 20%)
+* 48 stations 
+* ~1.17 stations per day
 
 
-![ ](P:/pCloud Sync/_bacalao/survey-timeline-diagram_48.3A_48.2.svg)
+![ ](P:/pCloud Sync/GitHub/toothfish_presentation/survey-timeline-final_English.svg)
+
+#### Scenarios considering fast or slow operations, with or without buffer
 
 ---
 
@@ -158,7 +162,7 @@ output:
   * 65 tonnes allocated to SRB (34.7%)
 * Based on historical CPUE with 50% recovery estimate since 2019
 
-  * **Note**: 75 tonnes for each research block (150 tonnes total) CCAMLR’s trend analysis (2023)
+* **Note**: 75 tonnes for each research block (150 tonnes total) CCAMLR’s trend analysis (2023)
 
 **Subarea 48.3A:**
 
@@ -173,14 +177,34 @@ output:
 
 ## Biological Data Collection
 
-**Comprehensive biological sampling program:**
+**For both research areas:**
 
-* Minimum 18 fish measured per longline
-* 10 otoliths collected per longline (approx 300 per season)
-* Sex, maturity stage, and gonad data
-* Tagging program: 5 fish per tonne (48.2) / 1.3 fish per tonne (48.3A)
+* Minimum 13 fish measured per longline (Type II samples; e.g., length measurements)
+* Minimum 5 fish measured per longline (Type III samples; eg., otoliths)
+* Sampling intensity of 7 fish per 1,000 hooks
+* Sampling intensity based on protocols from CCAMLR
 * Full bycatch documentation and VME monitoring
 * Seabird and marine mammal observations
+
+
+**Comprehensive biological sampling program:**
+
+**Subarea 48.2:**
+
+* Expected Type II samples: 1,274 toothfish
+* Expected Type III samples: 490 otoliths
+* Expected total samples: 1,764 
+* Expected Type II samples: 980 Macrourus spp 
+* Tagging program: 5 fish per tonne (48.2) 
+
+**Subarea 48.3A:**
+
+* Expected Type II samples: 624 toothfish
+* Expected Type III samples: 240 otoliths
+* Expected total samples: 864 
+* Expected Type II samples: 480 Macrourus spp 
+* Tagging program: 1.3 fish per tonne (48.3A)
+
 
 ---
 
