@@ -239,10 +239,8 @@ Total Survey Duration: 135 days (4.5 months)
 
 **Supporting institutions:**
 
--   Undersecretary for Fisheries and Aquaculture of Chile (SUBPESCA)
 -   Instituto de Fomento Pesquero (IFOP)
 -   Instituto Antartico Chileno
--   Ministerio de Relaciones Exteriores
 
 ------------------------------------------------------------------------
 
