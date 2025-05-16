@@ -19,7 +19,7 @@ output:
     -   Subarea 48.2 (Northern and Southern Research Blocks)
     -   Subarea 48.3A
 -   **Duration:** Three fishing seasons (2025/26 - 2027/28)
--   **Research vessel:** FV GlobalPesca III
+-   **Research vessel:** FV GlobalPesca I
 -   **Primary focus:** Patagonian toothfish (D. eleginoides) and Antarctic toothfish (D. mawsoni)
 
 ------------------------------------------------------------------------
@@ -232,7 +232,7 @@ Total Survey Duration: 135 days (4.5 months)
 
 **Vessel and crew:**
 
--   FV GlobalPesca III
+-   FV GlobalPesca I
 -   Total crew: 49 members
 -   **5** scientific observers (including 1 international)
 -   Space available for 1 international scientist

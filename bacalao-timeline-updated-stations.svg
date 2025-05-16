@@ -1,0 +1,88 @@
+<svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background and grid -->
+  <rect x="150" y="80" width="800" height="150" fill="#f9f9f9" stroke="#ddd" stroke-width="1" />
+  
+  <!-- Vertical month lines -->
+  <line x1="150" y1="80" x2="150" y2="230" stroke="#ddd" stroke-width="1" />
+  <line x1="266" y1="80" x2="266" y2="230" stroke="#ddd" stroke-width="1" />
+  <line x1="382" y1="80" x2="382" y2="230" stroke="#ddd" stroke-width="1" />
+  <line x1="498" y1="80" x2="498" y2="230" stroke="#ddd" stroke-width="1" />
+  <line x1="614" y1="80" x2="614" y2="230" stroke="#ddd" stroke-width="1" />
+  <line x1="730" y1="80" x2="730" y2="230" stroke="#ddd" stroke-width="1" />
+  <line x1="846" y1="80" x2="846" y2="230" stroke="#ddd" stroke-width="1" />
+  <line x1="950" y1="80" x2="950" y2="230" stroke="#ddd" stroke-width="1" />
+  
+  <!-- Month labels -->
+  <text x="150" y="70" font-family="Arial" font-size="14" text-anchor="middle">Mar 1</text>
+  <text x="266" y="70" font-family="Arial" font-size="14" text-anchor="middle">Apr 1</text>
+  <text x="382" y="70" font-family="Arial" font-size="14" text-anchor="middle">May 1</text>
+  <text x="498" y="70" font-family="Arial" font-size="14" text-anchor="middle">Jun 1</text>
+  <text x="614" y="70" font-family="Arial" font-size="14" text-anchor="middle">Jul 1</text>
+  <text x="730" y="70" font-family="Arial" font-size="14" text-anchor="middle">Aug 1</text>
+  <text x="846" y="70" font-family="Arial" font-size="14" text-anchor="middle">Sep 1</text>
+  <text x="950" y="70" font-family="Arial" font-size="14" text-anchor="middle">Oct 1</text>
+  
+  <!-- Scenario labels - simplified -->
+  <text x="75" y="125" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle">SLOW</text>
+  
+  <text x="75" y="195" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle">FAST</text>
+  
+  <!-- Timeline bars - SLOW scenario -->
+  <rect x="150" y="110" width="190" height="30" fill="#e74c3c" />
+  <text x="245" y="130" font-family="Arial" font-size="12" fill="white" text-anchor="middle">NRB F:55</text>
+  
+  <rect x="340" y="110" width="90" height="30" fill="#e74c3c" />
+  <text x="385" y="130" font-family="Arial" font-size="12" fill="white" text-anchor="middle">SRB F:29</text>
+  
+  <rect x="430" y="110" width="68" height="30" fill="#f39c12" />
+  <text x="464" y="130" font-family="Arial" font-size="12" fill="white" text-anchor="middle">D:21</text>
+  
+  <rect x="498" y="110" width="23" height="30" fill="#9b59b6" />
+  <text x="510" y="130" font-family="Arial" font-size="14" fill="white" text-anchor="middle">T</text>
+  
+  <rect x="521" y="110" width="168" height="30" fill="#e74c3c" />
+  <text x="605" y="130" font-family="Arial" font-size="12" fill="white" text-anchor="middle">48.3A F:41</text>
+  
+  <rect x="689" y="110" width="42" height="30" fill="#f39c12" />
+  <text x="710" y="130" font-family="Arial" font-size="12" fill="white" text-anchor="middle">D:10</text>
+  
+  <!-- Total days label for SLOW - positioned just after the last bar -->
+  <text x="745" y="125" font-family="Arial" font-size="14" font-weight="bold" text-anchor="start">Total: 171 days (5.7 months)</text>
+  
+  <!-- Timeline bars - FAST scenario -->
+  <rect x="150" y="180" width="143" height="30" fill="#3498db" />
+  <text x="222" y="200" font-family="Arial" font-size="12" fill="white" text-anchor="middle">NRB F:43</text>
+  
+  <rect x="293" y="180" width="72" height="30" fill="#3498db" />
+  <text x="329" y="200" font-family="Arial" font-size="12" fill="white" text-anchor="middle">SRB F:22</text>
+  
+  <rect x="365" y="180" width="56" height="30" fill="#f39c12" />
+  <text x="393" y="200" font-family="Arial" font-size="12" fill="white" text-anchor="middle">D:16</text>
+  
+  <rect x="421" y="180" width="23" height="30" fill="#9b59b6" />
+  <text x="433" y="200" font-family="Arial" font-size="14" fill="white" text-anchor="middle">T</text>
+  
+  <rect x="444" y="180" width="127" height="30" fill="#3498db" />
+  <text x="508" y="200" font-family="Arial" font-size="12" fill="white" text-anchor="middle">48.3A F:32</text>
+  
+  <rect x="571" y="180" width="32" height="30" fill="#f39c12" />
+  <text x="587" y="200" font-family="Arial" font-size="12" fill="white" text-anchor="middle">D:8</text>
+  
+  <!-- Total days label for FAST - positioned just after the last bar -->
+  <text x="618" y="195" font-family="Arial" font-size="14" font-weight="bold" text-anchor="start">Total: 135 days (4.5 months)</text>
+  
+  <!-- Legend - spaced out horizontally -->
+  <rect x="220" y="255" width="20" height="20" fill="#3498db" />
+  <text x="245" y="270" font-family="Arial" font-size="14">Fast Fishing (F)</text>
+  
+  <rect x="400" y="255" width="20" height="20" fill="#e74c3c" />
+  <text x="425" y="270" font-family="Arial" font-size="14">Slow Fishing (F)</text>
+  
+  <rect x="580" y="255" width="20" height="20" fill="#f39c12" />
+  <text x="605" y="270" font-family="Arial" font-size="14">Delays (D)</text>
+  
+  <rect x="720" y="255" width="20" height="20" fill="#9b59b6" />
+  <text x="745" y="270" font-family="Arial" font-size="14">Transit (T)</text>
+  
+  <text x="500" y="40" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle">Bacalao Survey Timeline Scenarios (Starting March 1, 2025)</text>
+</svg>
