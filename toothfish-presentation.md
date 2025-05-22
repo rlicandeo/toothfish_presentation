@@ -289,20 +289,20 @@ Total Survey Duration: 135 days (4.5 months)
 | Parameter                  | SLOW Scenario  | FAST Scenario |
 |----------------------------|----------------|---------------|
 | **Subarea 48.2**           |                |               |
-| Start date                 | March 1, 2025  | March 1, 2025 |
+| Start date                 | March 1, 2026  | March 1, 2026 |
 | Fishing days               | 84 days        | 65 days       |
 | Weather/maintenance delays | 21 days        | 16 days       |
 | Total days in 48.2         | 105 days       | 81 days       |
-| End date                   | June 13, 2025  | May 20, 2025  |
+| End date                   | June 13, 2026  | May 20, 2026  |
 |                            |                |               |
 | **Transit between areas**  | 6 days         | 6 days        |
 |                            |                |               |
 | **Subarea 48.3A**          |                |               |
-| Start date                 | June 19, 2025  | May 26, 2025  |
+| Start date                 | June 19, 2026  | May 26, 2026  |
 | Fishing days               | 41 days        | 32 days       |
 | Weather/maintenance delays | 10 days        | 8 days        |
 | Total days in 48.3A        | 51 days        | 40 days       |
-| End date                   | August 9, 2025 | July 5, 2025  |
+| End date                   | August 9, 2026 | July 5, 2026  |
 |                            |                |               |
 | **Total Survey Duration**  |                |               |
 | Total calendar days        | 171 days       | 135 days      |
