@@ -147,7 +147,7 @@ Total Survey Duration: 135 days (4.5 months)
 -   48 stations
 -   \~1.5 stations per day
 
-![](P:/pCloud%20Sync/GitHub/toothfish_presentation/bacalao-timeline-updated-stations.svg)
+![](P:/pCloud%20Sync/GitHub/toothfish_presentation/bacalao_survey_timeline_2026.svg)
 
 #### Scenarios considering fast or slow operations, with or without buffer
 
